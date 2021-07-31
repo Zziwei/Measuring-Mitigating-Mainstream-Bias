@@ -3,11 +3,11 @@ Code for the submitted paper -- Measuring and Mitigating Mainstream Bias in Reco
 
 ## Requirements
 python 3  
-tensorflow 1.14.0
-pytorch 1.8.1
-numpy
-sklearn
-pandas
+tensorflow 1.14.0  
+pytorch 1.8.1   
+numpy   
+sklearn   
+pandas   
 
 ## Excution
 To run the VAE, DC, WL, LFT, and EnLFT models, just run command 'python3 model_name.py' in terminal. For example, to run LFT, use command 'python3 LFT.py'.

@@ -1,5 +1,5 @@
 # Measuring-Mitigating-Mainstream-Bias
-Code for the submitted paper -- Measuring and Mitigating Mainstream Bias in Recommendation
+Code for the WSDM 2022 paper -- Fighting Mainstream Bias in Recommender Systems via LocalFine Tuning
 
 ## Requirements
 python 3  
